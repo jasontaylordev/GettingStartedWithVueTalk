@@ -1,1 +1,1 @@
-"# GettingStartedWithVueTalk" 
+Getting Started withg Vue Talk
